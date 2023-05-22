@@ -1,0 +1,2 @@
+Working directory - stagging area - local repo. - remot repo.
+text.project    - git add - git commit - git push
